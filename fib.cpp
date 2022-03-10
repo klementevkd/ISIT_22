@@ -15,6 +15,6 @@ int main()
     int n;
     cout << "Enter a number: ";
     cin >> n;
-    cout << f(n) << endl;
+    cout << f(n - 1) << endl;
     return 0;
 }
